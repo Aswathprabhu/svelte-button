@@ -1,0 +1,7 @@
+tasks:
+  - init: npm install && npm run build
+    command: npm run start
+vscode:
+  extensions:
+    - PKief.material-icon-theme@4.2.0:BMxWnfsRyjgBONLuFiMF4g==
+    - svelte.svelte-vscode@101.9.3:bISLG9APajjQUWFac/lCKQ==
